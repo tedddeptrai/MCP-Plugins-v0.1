@@ -1,3 +1,3 @@
-# server0-minecraft-source
+# Plugin-server
 
 simple plugins building server
